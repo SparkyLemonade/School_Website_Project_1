@@ -1,0 +1,52 @@
+body {
+    text-align:center;
+}
+
+#welcome {
+    background-color:forestgreen;
+}
+
+#campus-life {
+    background-color:aqua;
+}
+
+#achievements {
+    background-color:mediumseagreen;
+}
+
+#whatsnew {
+    background-color:darkgoldenrod;
+}
+
+#alumni ul {
+    text-align:left;
+    font-size:30;
+    
+}
+
+#alumni h1 {
+    font-size:50;
+}
+
+#alumni {
+    background-color:darkblue;
+    color:orangered;
+}
+marquee {
+    font-size:30px;
+    background-color:deepskyblue
+}
+
+#marquee {
+    background-color:darkmagenta;
+}
+
+#contactus {
+    background-color:darkturquoise;
+}
+
+.main_navbar {
+    position:sticky;
+    top:0;
+    z-index:99999;
+}
